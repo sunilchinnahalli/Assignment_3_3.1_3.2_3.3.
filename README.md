@@ -1,0 +1,2 @@
+# Assignment_3_3.1_3.2_3.3.
+3.1 : list and explain components of Hadoop 2.x, 3.2:  mapreduce program to map only which are not NA , 3.3 : calcualte the total units and calculate the total units for onida       Task1.Mapper.java for 3.2 to map which are not NA either Company or product ,  Task1Reducer.java for 3.2  1) to count the total units ,  Tas3Mapper.java and Task3Reducer.java  for 3.3  2) to count the total units for each state  for the product Onida
